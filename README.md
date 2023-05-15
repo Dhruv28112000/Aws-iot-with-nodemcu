@@ -1,1 +1,1 @@
-https://meetmanvar.medium.com/voice-control-iot-device-cdfb0852aeb2
+Blog Link:-https://medium.com/aws-in-plain-english/drone-using-aws-services-a5dc383291d
